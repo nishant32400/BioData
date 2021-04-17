@@ -1,0 +1,35 @@
+<style>
+  body {
+    background-color: #cffffe ;
+  }
+  hr{
+    background-color: none ;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 4%;
+  }
+  .heading-table{
+    background-color: #e3dfc8 ;
+    width: 100%
+  }
+
+  table {
+    background-color: #e3dfc8 ;
+  }
+  form {
+    background-color: #848ccf ;
+
+  }
+  h1{
+    color: #66BFBF;
+  }
+  h3{
+    color: #66BFBF;
+  }
+/***********************CLASS SELECTORS***********************/
+.circle{
+  border-radius:100%;
+}
+</style>
